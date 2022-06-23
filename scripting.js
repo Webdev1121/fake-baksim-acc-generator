@@ -10,5 +10,3 @@ for(var ii=0; ii<15; ii++){
 for(var ii=0; ii<15; ii++){
     pass += chars[Math.floor(Math.random() * chars.length)];
 }
-document.write(textemail + email + '@gmail.com<br>');
-document.write(textpass + pass);
